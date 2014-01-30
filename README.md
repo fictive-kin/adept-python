@@ -12,7 +12,7 @@ Import the Adept class from the package, pass through your account credentials
 from adept import Adept
 a = Adept(
     accound_id='9b5dd41deff8ae7e3767fc6566cb25ff3ca66438',
-    account_key'251692b3899f1e30fe4b7037185488aad37c46f8',
+    account_key='251692b3899f1e30fe4b7037185488aad37c46f8',
     cloudfront_hostname='some.cloudfront.host.com'
 )
 ```
