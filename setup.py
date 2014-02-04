@@ -14,7 +14,7 @@ setup(
     version="0.0.1",
     author="Fictive Kin",
     maintainer="Phil Howell",
-    # author_email="phil@fictivekin.com",
+    author_email="phil@fictivekin.com",
     description="Simple binding for Adept",
     license="BSD",
     install_requires=required,
