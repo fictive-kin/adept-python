@@ -22,6 +22,7 @@ setup(
     download_url="https://github.com/fictivekin/adept-python/archive/0.0.1.tar.gz",
     packages=['adept'],
     package_data={'': ['LICENSE', 'README.md', 'requirements.txt']},
+    include_package_data=True,
     long_description=read('README.md'),
     classifiers=[
         "Environment :: Web Environment",
