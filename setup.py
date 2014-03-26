@@ -10,7 +10,7 @@ with open('requirements.txt') as f:
 
 setup(
     name="Adept",
-    version="0.0.1",
+    version="0.0.2",
     author="Fictive Kin",
     maintainer="Phil Howell",
     author_email="phil@fictivekin.com",
@@ -19,7 +19,7 @@ setup(
     install_requires=requires,
     keywords=['adept', 'image', 'resize', 'processing'],
     url="https://github.com/fictivekin/adept-python",
-    download_url="https://github.com/fictivekin/adept-python/archive/0.0.1.tar.gz",
+    download_url="https://github.com/fictivekin/adept-python/archive/0.0.2.tar.gz",
     packages=['adept'],
     package_data={'': ['LICENSE', 'README.md', 'requirements.txt']},
     include_package_data=True,
